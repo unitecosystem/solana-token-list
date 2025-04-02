@@ -1,0 +1,11 @@
+[
+  {
+    "chainId": 101,
+    "address": "2fsUdUfo8hG8h8ZX1uND6tx6csMxaJEL76NUZhJfv7mW",
+    "symbol": "SKILAUNCH",
+    "name": "SKILAUNCH",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/unitecosystem/solana-token-list/main/assets/mainnet/2fsUdUfo8hG8h8ZX1uND6tx6csMxaJEL76NUZhJfv7mW/logo.png",
+    "tags": ["utility-token"]
+  }
+]
